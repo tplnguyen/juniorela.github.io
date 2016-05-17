@@ -118,7 +118,7 @@ a:focus {
 
 .menu li:after {
 
-	color: #f8bd08;
+	color: #CFE0E3;
 
 	content: '~';
 
@@ -144,7 +144,7 @@ line-height: 1.5;
 
 .text-banner h2 {
 
-	color: #f8bd08;
+	color: #CFE0E3;
 
 	font-family: 'Niconne', cursive;
 
@@ -262,7 +262,7 @@ line-height: 1.5;
 
 .upbox {
 
-	background-color: #f8bd08;
+	background-color: #CFE0E3;
 
 	padding: 0px;
 
@@ -489,7 +489,7 @@ line-height: 1.5;
 
 .forming input {
 
-	border-color: #f8bd08;
+	border-color: #CFE0E3;
 
 	border: 2px solid #f8bd08;
 
@@ -499,7 +499,7 @@ line-height: 1.5;
 
 .forming textarea {
 
-	border-color: #f8bd08;
+	border-color: #CFE0E3;
 
 	border: 2px solid #f8bd08;
 
@@ -519,7 +519,7 @@ line-height: 1.5;
 
 .forming button {
 
-	border: 2px solid #f8bd08;
+	border: 2px solid #CFE0E3;
 
 	background-color: #f8bd08;
 
@@ -537,7 +537,7 @@ line-height: 1.5;
 
 	border: 2px solid #333 !important;
 
-	background-color: #f8bd08 !important;
+	background-color: #CFE0E3 !important;
 
 	text-align: center;
 
@@ -627,7 +627,7 @@ line-height: 1.5;
 
 	font-size: 40px;
 
-	color: #f8bd08;
+	color: #CFE0E3;
 
 }
 
@@ -665,7 +665,7 @@ line-height: 1.5;
 
 .footerinfo p a {
 
-	color: #f8bd08;
+	color: #CFE0E3;
 
 }
 
