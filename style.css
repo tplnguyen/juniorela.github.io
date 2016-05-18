@@ -262,7 +262,7 @@ line-height: 1.5;
 
 .upbox {
 
-	background-color: #CFE0E3;
+	background-color: #588A98;
 
 	padding: 0px;
 
@@ -351,7 +351,7 @@ line-height: 1.5;
 
 	margin-bottom: -1px;
 
-	background-color: rgb(248, 189, 8);
+	background-color: rgb(207, 224, 227);
 
 }
 
@@ -373,7 +373,7 @@ line-height: 1.5;
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
 
-	color: rgb(248, 189, 8);
+	color: rgb(207, 224, 227);
 
 	cursor: default;
 
@@ -405,7 +405,7 @@ line-height: 1.5;
 
 	background-color: #fff;
 
-	color: rgb(248, 189, 8);
+	color: rgb(207, 224, 227);
 
 }
 
