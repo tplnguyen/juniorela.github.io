@@ -203,7 +203,7 @@ line-height: 1.5;
 
 }
 
-.welcome-text p {
+.welcome-text p, ul {
 
 	color: #888;
 	font-family: "Lato", sans-serif;
